@@ -7,7 +7,7 @@ This is a piece of code used in [Wild Witch Project](https://www.wildwitchprojec
 Inspired from Studios Ghibli style and other grass tools, but with some custom implementations, it attend the original project but can be useful in others, feel free to contribute to new ways of todo and adjusts.
 
 ## Tutorial
-[Youtube video](https://youtu.be/5CYoY-gNMBk)
+in progress...
 
 ## Note
 *This code is created for my game and tested on it, and is possible that not work properly acording expectations.*
