@@ -9,6 +9,9 @@ Inspired from Studios Ghibli style and other grass tools, but with some custom i
 ## Tutorial
 [Youtube video](https://youtu.be/5CYoY-gNMBk)
 
+## Note
+*This code is created for my game and tested on it, and is possible that not work properly acording expectations.*
+
 ## Extra info
 
 #### Tips
