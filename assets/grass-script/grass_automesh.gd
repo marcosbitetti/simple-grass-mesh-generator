@@ -100,6 +100,7 @@ func set_grass_gravity(v : float):
 	call_deferred("t_update")
 
 func set_distribuition_texture(v : CompressedTexture2D):
+	if not Engine.is_editor_hint(): return
 	distribuition_texture = v
 	if distribuition_texture != null:
 		distribuition_texture.get_image().decompress()
